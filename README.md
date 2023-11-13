@@ -2,7 +2,7 @@
 - 👀 I’m interested in political science
 - 🌱 I’m currently learning R, python 
 - 📫 How to reach me @kim00844@umn.edu
-- 🔗 This is my professional website: https://prod.d2ulgkmdlwvn74.amplifyapp.com
+- 🔗 This is my professional website: [https://prod.d2ulgkmdlwvn74.amplifyapp.com](https://min-young-kim.github.io/)
 
 <!---
 doublenyong/doublenyong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
