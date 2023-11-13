@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @doublenyong
+- 👋 Hi, I’m Minyoung Kim
 - 👀 I’m interested in political science
 - 🌱 I’m currently learning R, python 
 - 📫 How to reach me @kim00844@umn.edu
